@@ -1,0 +1,14 @@
+
+li{
+    list-style: none;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    cursor:default;
+}
+a{
+    text-decoration: none;
+    color:rgb(32, 32, 32);
+}

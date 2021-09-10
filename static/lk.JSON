@@ -1,0 +1,4404 @@
+[
+  [{
+      "id": 1,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 2,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 3,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 4,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 5,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 6,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 7,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 8,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 9,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 10,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 11,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 12,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 13,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 14,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 15,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 16,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 17,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 18,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 19,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 20,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 21,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 22,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 23,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 24,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 25,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 26,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 27,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 28,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 29,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 30,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ],
+  [{
+      "id": 31,
+      "goodsname": "推荐分类",
+      "goodschild": [{
+          "id": "a0135",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0136",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0137",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0138",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0139",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0140",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0141",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        },
+        {
+          "id": "a0142",
+          "goodstext": "空调",
+          "goodspic": "./static/data/images/category/goods-01/01/c001.jpg"
+        },
+        {
+          "id": "a0143",
+          "goodstext": "冰箱",
+          "goodspic": "./static/data/images/category/goods-01/01/c002.jpg"
+        },
+        {
+          "id": "a0144",
+          "goodstext": "电脑",
+          "goodspic": "./static/data/images/category/goods-01/01/c003.jpg"
+        },
+        {
+          "id": "a0145",
+          "goodstext": "手机",
+          "goodspic": "./static/data/images/category/goods-01/01/c004.jpg"
+        },
+        {
+          "id": "a0146",
+          "goodstext": "保健品",
+          "goodspic": "./static/data/images/category/goods-01/01/c005.jpg"
+        },
+        {
+          "id": "a0147",
+          "goodstext": "口罩",
+          "goodspic": "./static/data/images/category/goods-01/01/c006.jpg"
+        },
+        {
+          "id": "a0148",
+          "goodstext": "数据线",
+          "goodspic": "./static/data/images/category/goods-01/01/c007.jpg"
+        }
+      ],
+      "swiperpic": [
+        "./static/data/images/category/goods-01/goodsnav/c01.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c02.jpg",
+        "./static/data/images/category/goods-01/goodsnav/c03.jpg"
+      ]
+    },
+    {
+      "goodsname": "常用分类",
+      "goodschild": [{
+          "id": "a0148",
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "专场推荐",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    },
+    {
+      "goodsname": "优惠活动",
+      "goodschild": [{
+          "goodstext": "图书",
+          "goodspic": "./static/data/images/category/goods-01/02/c008.jpg"
+        },
+        {
+          "goodstext": "美妆护肤",
+          "goodspic": "./static/data/images/category/goods-01/02/c009.jpg"
+        },
+        {
+          "goodstext": "休闲零食",
+          "goodspic": "./static/data/images/category/goods-01/01/c010.jpg"
+        },
+        {
+          "goodstext": "体温计",
+          "goodspic": "./static/data/images/category/goods-01/01/c011.jpg"
+        }
+      ]
+    }
+  ]
+]

@@ -1,0 +1,112 @@
+{
+
+  "goods_a1": [{
+      "id": "2123",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "汽车车身迎宾灯天使之翼镭射氛围灯翅膀投影灯底盘地毯灯LED改装",
+      "Price_7": 118.0,
+      "collection": 387,
+      "purchase": 17
+    },
+    {
+      "id": "2124",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "汽车中网爆闪灯led大功率无线一拖十六夹子灯开道警示灯装饰灯",
+      "Price_7": 138.0,
+      "collection": 387,
+      "purchase": 17
+    },
+    {
+      "id": "2125",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "汽车天线 装饰天线 改装天线 越野天线 车载天线 夹边加长型旗杆",
+      "Price_7": 29.9,
+      "collection": 387,
+      "purchase": 17
+    },
+    {
+      "id": "2126",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "福特福睿斯锐界st野马探险者蒙迪欧翼虎锐际福克斯领界手机支架",
+      "Price_7": 98.0,
+      "collection": 387,
+      "purchase": 17
+    },
+    {
+      "id": "2127",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "专用于17-21款魏派VV7 VV5 VV6 专车专用手机支架 车载手机架",
+      "Price_7": 98.0,
+      "collection": 387,
+      "purchase": 17
+    },
+    {
+      "id": "2128",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "荣威RX5Plus i6 RX3 RX8 i5 ei5 MAX eMAX I6 MaIMax手机支架车载",
+      "Price_7": 98.0,
+      "collection": 387,
+      "purchase": 17
+    }
+  ],
+  "goods_a2": [{
+      "id": "2129",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "汽车车身迎宾灯天使之翼镭射氛围灯翅膀投影灯底盘地毯灯LED改装",
+      "Price_7": 118.0,
+      "collection": 387,
+      "purchase": 17
+    },
+    {
+      "id": "2130",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "汽车中网爆闪灯led大功率无线一拖十六夹子灯开道警示灯装饰灯",
+      "Price_7": 138.0,
+      "collection": 387,
+      "purchase": 17
+    },
+    {
+      "id": "2131",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "汽车天线 装饰天线 改装天线 越野天线 车载天线 夹边加长型旗杆",
+      "Price_7": 29.9,
+      "collection": 387,
+      "purchase": 17
+    },
+    {
+      "id": "2132",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "福特福睿斯锐界st野马探险者蒙迪欧翼虎锐际福克斯领界手机支架",
+      "Price_7": 98.0,
+      "collection": 387,
+      "purchase": 17
+    },
+    {
+      "id": "2133",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "专用于17-21款魏派VV7 VV5 VV6 专车专用手机支架 车载手机架",
+      "Price_7": 98.0
+    },
+    {
+      "id": "2134",
+      "pic_7": "https://img1.baidu.com/it/u=4024355062,620624686&fm=26&fmt=auto&gp=0.jpg",
+      "text_7": "荣威RX5Plus i6 RX3 RX8 i5 ei5 MAX eMAX I6 MaIMax手机支架车载",
+      "Price_7": 98.0,
+      "collection": 387,
+      "purchase": 17
+    }
+  ],
+  "goods_a3": [
+    "./static/data/images/detailpage/goods_a3/d0101.jpg",
+    "./static/data/images/detailpage/goods_a3/d0102.jpg",
+    "./static/data/images/detailpage/goods_a3/d0103.jpg",
+    "./static/data/images/detailpage/goods_a3/c0104.jpg",
+    "./static/data/images/detailpage/goods_a3/d0105.jpg",
+    "./static/data/images/detailpage/goods_a3/d0106.jpg",
+    "./static/data/images/detailpage/goods_a3/d0107.jpg",
+    "./static/data/images/detailpage/goods_a3/c0108.jpg",
+    "./static/data/images/detailpage/goods_a3/d0109.jpg",
+    "./static/data/images/detailpage/goods_a3/d0110.jpg",
+    "./static/data/images/detailpage/goods_a3/d0111.jpg"
+  ]
+}

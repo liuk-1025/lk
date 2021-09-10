@@ -1,0 +1,29 @@
+
+/* .discount {
+    background-image: radial-gradient( rgb(98, 153, 190),  rgba(1, 7, 8,0.5));
+    width: 100%;
+    height: 100px;
+    display: flex;
+    font-size: 15px;
+  } */
+  .discount ul {
+    justify-content: space-between;
+    text-align: center;
+    flex: 1;
+    padding: 10px 0;
+  }
+  .discount ul li {
+    margin: auto;
+    height: 60px;
+    width: 60px;
+    overflow: hidden;
+    border-radius: 60px; 
+  }
+  .discount li img {
+    height: 100%;
+  }
+  h4{
+    text-align: center;
+    margin: 5px 0;
+    font-weight: normal;
+  }

@@ -1,0 +1,432 @@
+{
+  "navpic": [
+    "./static/data/images/navpic/A00001.jpg",
+    "./static/data/images/navpic/A00002.jpg",
+    "./static/data/images/navpic/A00003.jpg",
+    "./static/data/images/navpic/A00004.jpg",
+    "./static/data/images/navpic/A00005.jpg"
+  ],
+  "pic2": [{
+      "id": "b0001",
+      "pic2a": "./static/data/images/pic2/ia_500000043.jpg",
+      "price": 29,
+      "buynum": 39,
+      "introduce": "圆形硅胶锅垫隔热垫厨房防热餐桌垫防烫耐热盘杯垫碗垫子家用菜垫",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "b0002",
+      "pic2a": "./static/data/images/pic2/ia_500000044.jpg",
+      "price": 9,
+      "buynum": 39,
+      "introduce": "日本进口挤沙拉酱的瓶子寿司果酱番茄酱挤压瓶酱油瓶调味瓶控油壶",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "b0003",
+      "pic2a": "./static/data/images/pic2/ia_500000045.jpg",
+      "price": 37,
+      "buynum": 78,
+      "introduce": "日式和风高档窑变釉陶瓷寿司盘子日料盘餐盘菜盘点心盘餐厅",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "b0004",
+      "pic2a": "./static/data/images/pic2/ia_500000046.jpg",
+      "price": 13,
+      "buynum": 157,
+      "introduce": "景德镇青花瓷餐具套装陶瓷碗盘56头骨瓷碗碟套装家用中式高档乔迁",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "b0005",
+      "pic2a": "./static/data/images/pic2/ia_500000047.jpg",
+      "price": 18,
+      "buynum": 392,
+      "introduce": "乐美雅透明玻璃瓶小号带盖食品防潮密封罐茶叶罐花茶储存罐储物罐",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "b0006",
+      "pic2a": "./static/data/images/pic2/ia_500000048.jpg",
+      "price": 450,
+      "buynum": 3,
+      "introduce": "【天天特价】不锈钢密孔沥水篮沥水盆洗菜篮洗米盆水果篮水果盘",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "b0007",
+      "pic2a": "./static/data/images/pic2/ia_500000049.jpg",
+      "price": 113,
+      "buynum": 1753,
+      "introduce": "日本进口万古烧家用燃气煤气灶专用煲汤煲仔饭炖鸡砂锅炖锅土锅",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "b0008",
+      "pic2a": "./static/data/images/pic2/ia_500000050.jpg",
+      "price": 29,
+      "buynum": 39,
+      "introduce": "日本进口厨房双层塑料沥水篮洗菜盆碗碟果蔬清洗篮收纳筐套装",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "b0009",
+      "pic2a": "./static/data/images/pic2/ia_500000051.jpg",
+      "price": 74,
+      "buynum": 329,
+      "introduce": "简约田园收纳筐无盖桌面收纳盒储物盒杂物整理零食筐毛巾盒收纳盒",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "b0010",
+      "pic2a": "./static/data/images/pic2/ia_500000052.jpg",
+      "price": 79,
+      "buynum": 3119,
+      "introduce": "三层可拆收纳盒有盖内裤袜玩具整理箱手提多格透明塑料乐高收纳箱",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    }
+  ],
+  "pic3": [{
+      "id": "c0001",
+      "pic2a": "./static/data/images/pic3/ia_500000053.jpg",
+      "price": 29,
+      "buynum": 1314,
+      "introduce": "好看的骨瓷盘子套装组合家用菜盘深盘蒸盘汤盘北欧风陶瓷圆形碟子",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "c0002",
+      "pic2a": "./static/data/images/pic3/ia_500000054.jpg",
+      "price": 29,
+      "buynum": 5234,
+      "introduce": "24CM礼品纪念品珐琅搪瓷煎药锅汤锅炖锅奶锅电磁炉通用平底小火锅",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "c0003",
+      "pic2a": "./static/data/images/pic3/ia_500000055.jpg",
+      "price": 53,
+      "buynum": 329,
+      "introduce": "搪瓷咖啡壶油壶水壶搪瓷水壶搪瓷壶冷水壶茶壶搪瓷油壶",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "c0004",
+      "pic2a": "./static/data/images/pic3/ia_500000056.jpg",
+      "price": 78,
+      "buynum": 25,
+      "introduce": "景德镇陶瓷碗家用高档骨瓷餐具盘子碗组合单个吃饭碗大碗面碗盘碟",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "c0005",
+      "pic2a": "./static/data/images/pic3/ia_500000057.jpg",
+      "price": 63,
+      "buynum": 424,
+      "introduce": "塑料加厚1米箱孰料巨龙箱水产养殖箱养龟箱食品级周转箱物流胶筐",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "c0006",
+      "pic2a": "./static/data/images/pic3/ia_500000058.jpg",
+      "price": 63,
+      "buynum": 424,
+      "introduce": "杯子与光影。一宅双层花纹水晶杯家用ins复古浮雕无铅玻璃杯耐热",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "c0007",
+      "pic2a": "./static/data/images/pic3/ia_500000059.jpg",
+      "price": 18,
+      "buynum": 1515,
+      "introduce": "柏斐/西班牙进口/简约/环保玻璃/艾森迪克系列/调味瓶/油壶",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "c0008",
+      "pic2a": "./static/data/images/pic3/ia_500000060.jpg",
+      "price": 32,
+      "buynum": 2151,
+      "introduce": "80vt法国订单C家经典vintage陶瓷密封提手款复古玻璃冷饮瓶牛奶瓶",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "c0009",
+      "pic2a": "./static/data/images/pic3/ia_500000061.jpg",
+      "price": 52,
+      "buynum": 362,
+      "introduce": "韩国进口冰箱收纳神器长方形保鲜盒冷冻盒带便当盒饺子盒ChangSin",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "c0010",
+      "pic2a": "./static/data/images/pic3/ia_500000062.jpg",
+      "price": 14,
+      "buynum": 83,
+      "introduce": "迪士尼经典系列奇幻星云不锈钢双层隔热保温办公水杯带手柄",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    }
+  ],
+  "pic4": [{
+      "id": "d0001",
+      "pic2a": "./static/data/images/pic4/ia_500000063.jpg",
+      "price": 29,
+      "buynum": 1314,
+      "introduce": "厨房冰箱置物架挂架冰箱挂架侧壁挂架挂件收纳架挂钩纸巾保鲜膜架",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "d0002",
+      "pic2a": "./static/data/images/pic4/ia_500000064.jpg",
+      "price": 29,
+      "buynum": 5234,
+      "introduce": "超大容量厨房用品油壶日式防漏大油瓶玻璃家用大号食用油罐蜂蜜罐",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "d0003",
+      "pic2a": "./static/data/images/pic4/ia_500000065.jpg",
+      "price": 53,
+      "buynum": 329,
+      "introduce": "带筐保鲜盒套装冷冻盒冷藏储物盒韩国进口家用塑料冰箱收纳整理盒",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "d0004",
+      "pic2a": "./static/data/images/pic4/ia_500000066.jpg",
+      "price": 78,
+      "buynum": 25,
+      "introduce": "蔬菜系列陶瓷双耳小汤碗早餐碗汤杯家用粥碗西餐甜品碗汤盅儿童碗",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "d0005",
+      "pic2a": "./static/data/images/pic4/ia_500000067.jpg",
+      "price": 63,
+      "buynum": 424,
+      "introduce": "简易组装多层挂式门后鞋架36双可挂墙上鞋架宿舍时尚省空间鞋架",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "d0006",
+      "pic2a": "./static/data/images/pic4/ia_500000068.jpg",
+      "price": 63,
+      "buynum": 424,
+      "introduce": "玻璃透明罩果盘下午茶蛋糕罩展示盘木质甜点托盘蛋糕盘水果试吃盘",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "d0007",
+      "pic2a": "./static/data/images/pic4/ia_500000069.jpg",
+      "price": 18,
+      "buynum": 1515,
+      "introduce": "柏斐/宿舍化妆品收纳盒桌面塑料整理抽屉式梳妆台口红护肤品置物架大号/简约/环保玻璃/艾森迪克系列/调味瓶/油壶",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "d0008",
+      "pic2a": "./static/data/images/pic4/ia_500000070.jpg",
+      "price": 32,
+      "buynum": 2151,
+      "introduce": "川岛屋日式陶瓷鱼盘子家用新款蒸鱼盘大号装鱼盘长盘寿司盘长方形",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "d0009",
+      "pic2a": "./static/data/images/pic4/ia_500000071.jpg",
+      "price": 52,
+      "buynum": 362,
+      "introduce": "简约蕾丝花边全棉韩版田园公主风床裙四件套被套纯棉1.8m床上用品",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    },
+    {
+      "id": "d0010",
+      "pic2a": "./static/data/images/pic4/ia_500000072.jpg",
+      "price": 14,
+      "buynum": 83,
+      "introduce": "美式田园乡村印花半遮光棉麻窗帘卧室客厅飘窗落地窗窗帘成品定制",
+      "link": "",
+      "details": [{
+        "details-pic": 29,
+        "details-pic1": 39,
+        "details-text": 39,
+        "details-text1": 39
+      }]
+    }
+  ]
+}
